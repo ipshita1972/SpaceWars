@@ -8,7 +8,7 @@ import { GlobalContextProvider } from "./context";
 createRoot(document.getElementById("root")).render(
   <ThirdwebProvider
     activeChain="ethereum"
-    clientId="{client id}">
+    clientId="1954fee1a5c0280bf2de1fa25678k">
     <StrictMode>
       <GlobalContextProvider>
         <App />
